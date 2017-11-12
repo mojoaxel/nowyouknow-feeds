@@ -17,10 +17,10 @@ function generateFeed(name, format) {
 
 	var feed = new RSS(settings);
 	for (const item of data.items) {
-		var url =  data.cdn + item[format];
+		var url = data.cdn + item[format];
 
 		let episode = {
-			title:  item.title,
+			title: item.title,
 			description: `${item.title} (${format.toUpperCase()})`,
 			url: url,
 			date: data.feed.pubDate, // any format that js Date can parse.
