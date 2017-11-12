@@ -9,7 +9,7 @@
             <link>http://nowyouknow.eu/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Nov 2017 16:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2017 17:47:46 GMT</lastBuildDate>
         <atom:link href="https://mojoaxel.github.io/nowyouknow-feeds/all_mp3.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
         <copyright><![CDATA[Constanze Kurz & Frank Rieger]]></copyright>
@@ -25,7 +25,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-intro.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-intro.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-intro.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-intro.mp3" length="38716274" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[Technologie als Waffe (2013)]]></title>
@@ -33,7 +33,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2013-Technologie-als-Waffe.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2013-Technologie-als-Waffe.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:01 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-Technologie-als-Waffe.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-Technologie-als-Waffe.mp3" length="20204444" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2013 Juni & August]]></title>
@@ -41,7 +41,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2013-juni-aug.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2013-juni-aug.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:02 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-juni-aug.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-juni-aug.mp3" length="23276444" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2013 August, September, Dezember]]></title>
@@ -49,7 +49,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2013-aug-sep-dez.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2013-aug-sep-dez.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:03 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-aug-sep-dez.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-aug-sep-dez.mp3" length="20246658" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2014 Januar & Februar]]></title>
@@ -57,7 +57,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2014-jan+feb.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-jan+feb.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:04 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-jan+feb.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-jan+feb.mp3" length="19470090" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2014 Ein Jahr Snowden-Enthüllungen]]></title>
@@ -65,7 +65,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2014-1jahrsnowden.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-1jahrsnowden.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:05 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-1jahrsnowden.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-1jahrsnowden.mp3" length="9768421" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2014 Mai & Juli]]></title>
@@ -73,7 +73,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2014-mai-juli.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-mai-juli.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:06 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-mai-juli.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-mai-juli.mp3" length="12280356" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2014 November]]></title>
@@ -81,7 +81,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2014-nov.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-nov.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:07 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-nov.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-nov.mp3" length="23664728" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2015 Januar & Februar]]></title>
@@ -89,7 +89,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2015-jan-feb.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-jan-feb.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:08 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-jan-feb.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-jan-feb.mp3" length="11876189" type="audio/mp3"/>
             <psc:chapters xmlns:psc="http://podlove.org/simple-chapters" version="1.2">
                 <psc:chapter start="00:00:00.000" title="27.01.2015, Die digitale Wohnung und ihr staatlicher Nachschlüssel" href="http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/verschluesselungstechnik-ein-staatliches-monopol-13389713.html"/>
                 <psc:chapter start="00:06:30.000" title="13.02.2015, Finger Weg von meinen Daten" href="http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/verschluesselungssoftware-finger-weg-von-meinen-daten-13416853.html"/>
@@ -101,7 +101,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2015-feb-maerz-april.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-feb-maerz-april.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:09 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-feb-maerz-april.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-feb-maerz-april.mp3" length="20475700" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2015 Mai]]></title>
@@ -109,7 +109,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2015-mai.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-mai.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:10 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-mai.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-mai.mp3" length="16740398" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2015 Juni & Juli]]></title>
@@ -117,7 +117,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2015-juni-juli.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-juni-juli.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:11 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-juni-juli.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-juni-juli.mp3" length="18008069" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2015 August & September]]></title>
@@ -125,7 +125,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2015-aug-sep.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-aug-sep.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:12 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-aug-sep.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-aug-sep.mp3" length="22261221" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2016 Februar & März]]></title>
@@ -133,7 +133,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2016-feb-maerz.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2016-feb-maerz.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:13 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-feb-maerz.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-feb-maerz.mp3" length="14829071" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2016 April & Mai]]></title>
@@ -141,7 +141,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2016-april-mai.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2016-april-mai.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:14 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-april-mai.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-april-mai.mp3" length="17305897" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2016 September & November]]></title>
@@ -149,7 +149,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2016-sep-nov.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2016-sep-nov.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:15 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-sep-nov.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-sep-nov.mp3" length="9604999" type="audio/mp3"/>
         </item>
         <item>
             <title><![CDATA[2017 März]]></title>
@@ -157,7 +157,7 @@
             <link>http://cdn.nowyouknow.eu/NYK-2017-maerz.mp3</link>
             <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2017-maerz.mp3</guid>
             <pubDate>Sun, 22 Oct 2017 20:13:16 GMT</pubDate>
-            <enclosure url="http://cdn.nowyouknow.eu/NYK-2017-maerz.mp3" length="0" type="audio/mp3"/>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2017-maerz.mp3" length="13621169" type="audio/mp3"/>
         </item>
     </channel>
 </rss>
