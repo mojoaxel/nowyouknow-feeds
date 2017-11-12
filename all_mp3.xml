@@ -9,7 +9,7 @@
             <link>http://nowyouknow.eu/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Nov 2017 19:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2017 20:02:50 GMT</lastBuildDate>
         <atom:link href="https://mojoaxel.github.io/nowyouknow-feeds/all_mp3.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
         <copyright><![CDATA[Constanze Kurz & Frank Rieger]]></copyright>
@@ -17,9 +17,12 @@
         <ttl>1440</ttl>
         <itunes:category text="News &amp; Politics"/>
         <itunes:author>Constanze Kurz, Frank Rieger</itunes:author>
-        <itunes:email>kontakt@datenfresser.info</itunes:email>
         <itunes:type>serial</itunes:type>
         <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Constanze Kurz &amp; Frank Rieger</itunes:name>
+            <itunes:email>kontakt@datenfresser.info</itunes:email>
+        </itunes:owner>
         <item>
             <title><![CDATA[Einführung]]></title>
             <description><![CDATA[Einführung (MP3)]]></description>
