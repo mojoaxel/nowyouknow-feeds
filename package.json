@@ -5,8 +5,7 @@
   "homepage": "https://mojoaxel.github.io/nowyouknow-feeds/",
   "main": "make.js",
   "scripts": {
-    "make": "node make.js",
-    "start": "npm run make && npm run validator"
+    "start": "node make.js"
   },
   "repository": {
     "type": "git",

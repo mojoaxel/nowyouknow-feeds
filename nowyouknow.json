@@ -15,54 +15,71 @@
 	"items": [{
 		"title": "Einführung",
 		"mp3": "NYK-intro.mp3",
+		"ogg": "NYK-intro.ogg",
 		"author": "Constanze Kurz, Frank Rieger"
 	}, {
 		"title": "Technologie als Waffe (2013)",
-		"mp3": "NYK-2013-Technologie-als-Waffe.mp3"
+		"mp3": "NYK-2013-Technologie-als-Waffe.mp3",
+		"ogg": "NYK-2013-Technologie-als-Waffe.ogg"
 	}, {
 		"title": "2013 Juni & August",
-		"mp3": "NYK-2013-juni-aug.mp3"
+		"mp3": "NYK-2013-juni-aug.mp3",
+		"ogg": "NYK-2013-juni-aug.ogg"
 	}, {
 		"title": "2013 August, September, Dezember",
-		"mp3": "NYK-2013-aug-sep-dez.mp3"
+		"mp3": "NYK-2013-aug-sep-dez.mp3",
+		"ogg": "NYK-2013-aug-sep-dez.ogg"
 	}, {
 		"title": "2014 Januar & Februar",
-		"mp3": "NYK-2014-jan+feb.mp3"
+		"mp3": "NYK-2014-jan+feb.mp3",
+		"ogg": "NYK-2014-jan+feb.ogg"
 	}, {
 		"title": "2014 Ein Jahr Snowden-Enthüllungen",
-		"mp3": "NYK-2014-1jahrsnowden.mp3"
+		"mp3": "NYK-2014-1jahrsnowden.mp3",
+		"ogg": "NYK-2014-1jahrsnowden.ogg"
 	}, {
 		"title": "2014 Mai & Juli",
-		"mp3": "NYK-2014-mai-juli.mp3"
+		"mp3": "NYK-2014-mai-juli.mp3",
+		"ogg": "NYK-2014-mai-juli.ogg"
 	}, {
 		"title": "2014 November",
-		"mp3": "NYK-2014-nov.mp3"
+		"mp3": "NYK-2014-nov.mp3",
+		"ogg": "NYK-2014-nov.ogg"
 	}, {
 		"title": "2015 Januar & Februar",
-		"mp3": "NYK-2015-jan-feb.mp3"
+		"mp3": "NYK-2015-jan-feb.mp3",
+		"ogg": "NYK-2015-jan-feb.ogg"
 	}, {
 		"title": "2015 Februar & März",
-		"mp3": "NYK-2015-feb-maerz-april.mp3"
+		"mp3": "NYK-2015-feb-maerz-april.mp3",
+		"ogg": "NYK-2015-feb-maerz-april.ogg"
 	}, {
 		"title": "2015 Mai",
-		"mp3": "NYK-2015-mai.mp3"
+		"mp3": "NYK-2015-mai.mp3",
+		"ogg": "NYK-2015-mai.ogg"
 	}, {
 		"title": "2015 Juni & Juli",
-		"mp3": "NYK-2015-juni-juli.mp3"
+		"mp3": "NYK-2015-juni-juli.mp3",
+		"ogg": "NYK-2015-juni-juli.ogg"
 	}, {
 		"title": "2015 August & September",
-		"mp3": "NYK-2015-aug-sep.mp3"
+		"mp3": "NYK-2015-aug-sep.mp3",
+		"ogg": "NYK-2015-aug-sep.ogg"
 	}, {
 		"title": "2016 Februar & März",
-		"mp3": "NYK-2016-feb-maerz.mp3"
+		"mp3": "NYK-2016-feb-maerz.mp3",
+		"ogg": "NYK-2016-feb-maerz.ogg"
 	}, {
 		"title": "2016 April & Mai",
-		"mp3": "NYK-2016-april-mai.mp3"
+		"mp3": "NYK-2016-april-mai.mp3",
+		"ogg": "NYK-2016-april-mai.ogg"
 	}, {
 		"title": "2016 September & November",
-		"mp3": "NYK-2016-sep-nov.mp3"
+		"mp3": "NYK-2016-sep-nov.mp3",
+		"ogg": "NYK-2016-sep-nov.ogg"
 	}, {
 		"title": "2017 März",
-		"mp3": "NYK-2017-maerz.mp3"
+		"mp3": "NYK-2017-maerz.mp3",
+		"ogg": "NYK-2017-maerz.ogg"
 	}]
 }

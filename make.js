@@ -50,3 +50,4 @@ function generateFeed(name, format) {
 }
 
 generateFeed("all", "mp3");
+generateFeed("all", "ogg");

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Now You Know. Vier Jahre Snowden]]></title>
+        <description><![CDATA[Seit dem Juni 2013, als die ersten Veröffentlichungen aus den Snowden-Unterlagen begannen, haben wir in Zeitungen, Zeitschriften und Büchern zahlreiche Texte zu diesem Themenkomplex geschrieben: in der FAZ und FAS, im SPIEGEL, in Buchbeiträgen. Davon haben wir etwa fünfzig ausgesucht, um den Rückblick auf viele Details und die jeweils aktuellen Reaktionen auf die zahlreichen enthüllten NSA- und GCHQ-Programme, die politischen Folgen und die Stimmung in der Öffentlichkeit zum Thema Massenüberwachung zu wagen.]]></description>
+        <link>http://nowyouknow.eu/</link>
+        <image>
+            <url>http://nowyouknow.eu/galleries/spys.jpg</url>
+            <title>Now You Know. Vier Jahre Snowden</title>
+            <link>http://nowyouknow.eu/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 12 Nov 2017 12:40:20 GMT</lastBuildDate>
+        <atom:link href="https://mojoaxel.github.io/nowyouknow-feeds/all_ogg.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+        <copyright><![CDATA[Constanze Kurz & Frank Rieger]]></copyright>
+        <language><![CDATA[de]]></language>
+        <ttl>1440</ttl>
+        <item>
+            <title><![CDATA[Einführung]]></title>
+            <description><![CDATA[Einführung (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-intro.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-intro.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-intro.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[Technologie als Waffe (2013)]]></title>
+            <description><![CDATA[Technologie als Waffe (2013) (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2013-Technologie-als-Waffe.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2013-Technologie-als-Waffe.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-Technologie-als-Waffe.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2013 Juni & August]]></title>
+            <description><![CDATA[2013 Juni & August (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2013-juni-aug.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2013-juni-aug.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-juni-aug.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2013 August, September, Dezember]]></title>
+            <description><![CDATA[2013 August, September, Dezember (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2013-aug-sep-dez.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2013-aug-sep-dez.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2013-aug-sep-dez.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2014 Januar & Februar]]></title>
+            <description><![CDATA[2014 Januar & Februar (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2014-jan+feb.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-jan+feb.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-jan+feb.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2014 Ein Jahr Snowden-Enthüllungen]]></title>
+            <description><![CDATA[2014 Ein Jahr Snowden-Enthüllungen (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2014-1jahrsnowden.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-1jahrsnowden.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-1jahrsnowden.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2014 Mai & Juli]]></title>
+            <description><![CDATA[2014 Mai & Juli (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2014-mai-juli.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-mai-juli.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-mai-juli.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2014 November]]></title>
+            <description><![CDATA[2014 November (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2014-nov.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2014-nov.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2014-nov.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2015 Januar & Februar]]></title>
+            <description><![CDATA[2015 Januar & Februar (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2015-jan-feb.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-jan-feb.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-jan-feb.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2015 Februar & März]]></title>
+            <description><![CDATA[2015 Februar & März (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2015-feb-maerz-april.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-feb-maerz-april.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-feb-maerz-april.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2015 Mai]]></title>
+            <description><![CDATA[2015 Mai (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2015-mai.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-mai.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-mai.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2015 Juni & Juli]]></title>
+            <description><![CDATA[2015 Juni & Juli (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2015-juni-juli.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-juni-juli.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-juni-juli.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2015 August & September]]></title>
+            <description><![CDATA[2015 August & September (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2015-aug-sep.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2015-aug-sep.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2015-aug-sep.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016 Februar & März]]></title>
+            <description><![CDATA[2016 Februar & März (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2016-feb-maerz.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2016-feb-maerz.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-feb-maerz.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016 April & Mai]]></title>
+            <description><![CDATA[2016 April & Mai (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2016-april-mai.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2016-april-mai.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-april-mai.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2016 September & November]]></title>
+            <description><![CDATA[2016 September & November (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2016-sep-nov.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2016-sep-nov.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2016-sep-nov.ogg" length="0" type="audio/ogg"/>
+        </item>
+        <item>
+            <title><![CDATA[2017 März]]></title>
+            <description><![CDATA[2017 März (OGG)]]></description>
+            <link>http://cdn.nowyouknow.eu/NYK-2017-maerz.ogg</link>
+            <guid isPermaLink="true">http://cdn.nowyouknow.eu/NYK-2017-maerz.ogg</guid>
+            <pubDate>Sun, 22 Oct 2017 20:13:00 GMT</pubDate>
+            <enclosure url="http://cdn.nowyouknow.eu/NYK-2017-maerz.ogg" length="0" type="audio/ogg"/>
+        </item>
+    </channel>
+</rss>
