@@ -12,7 +12,8 @@
 		"ttl": "1440",
 
 		"custom_namespaces": {
-			"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+			"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+			"psc": "http://podlove.org/simple-chapters"
 		},
 
 		"custom_elements": [
@@ -57,7 +58,16 @@
 	}, {
 		"title": "2015 Januar & Februar",
 		"mp3": "NYK-2015-jan-feb.mp3",
-		"ogg": "NYK-2015-jan-feb.ogg"
+		"ogg": "NYK-2015-jan-feb.ogg",
+		"chapters": [{
+			"start": "00:00:00.000",
+			"title": "27.01.2015, Die digitale Wohnung und ihr staatlicher Nachschlüssel",
+			"href": "http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/verschluesselungstechnik-ein-staatliches-monopol-13389713.html"
+		}, {
+			"start": "00:06:30.000",
+			"title": "13.02.2015, Finger Weg von meinen Daten",
+			"href": "http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/verschluesselungssoftware-finger-weg-von-meinen-daten-13416853.html"
+		}]
 	}, {
 		"title": "2015 Februar & März",
 		"mp3": "NYK-2015-feb-maerz-april.mp3",

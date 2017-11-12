@@ -36,6 +36,30 @@ function generateFeed(name, format) {
 			})
 		};
 
+		if (item.chapters) {
+			let chapters = [{
+				"_attr": {
+					"xmlns:psc": "http://podlove.org/simple-chapters",
+					"version": "1.2"
+				}
+			}];
+			for (const chapter of item.chapters) {
+				let chapterObj = {
+					"psc:chapter": {
+						"_attr": {
+							"start": chapter.start,
+							"title": chapter.title
+						}
+					}
+				};
+				if (chapter.href) {
+					chapterObj['psc:chapter']['_attr'].href = chapter.href
+				}
+				chapters.push(chapterObj);
+			}
+			episode.custom_elements.push({ "psc:chapters": chapters });
+		};
+
 		feed.item(episode);
 	}
 
