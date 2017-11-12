@@ -1,6 +1,7 @@
 const fs = require('fs');
 const ora = require('ora');
 const extend = require('extend');
+const moment = require('moment');
 const RSS = require('rss');
 
 const package = require('./package.json');
@@ -16,14 +17,14 @@ function generateFeed(name, format) {
 	});
 
 	var feed = new RSS(settings);
-	for (const item of data.items) {
-		var url = data.cdn + item[format];
+	data.items.forEach((item, index) => {
+		let url = data.cdn + item[format];
 
 		let episode = {
 			title: item.title,
 			description: `${item.title} (${format.toUpperCase()})`,
 			url: url,
-			date: data.feed.pubDate, // any format that js Date can parse.
+			date: moment(data.feed.pubDate).seconds(index), // any format that js Date can parse.
 			enclosure: {url: url, type: `audio/${format}`},
 			custom_elements: []
 		};
@@ -61,7 +62,7 @@ function generateFeed(name, format) {
 		};
 
 		feed.item(episode);
-	}
+	})
 
 	var xml = feed.xml({indent: true});
 	fs.writeFile(filename, xml, (err) => {
