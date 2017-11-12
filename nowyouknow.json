@@ -14,7 +14,8 @@
 
 	"items": [{
 		"title": "Einführung",
-		"mp3": "NYK-intro.mp3"
+		"mp3": "NYK-intro.mp3",
+		"author": "Constanze Kurz, Frank Rieger"
 	}, {
 		"title": "Technologie als Waffe (2013)",
 		"mp3": "NYK-2013-Technologie-als-Waffe.mp3"

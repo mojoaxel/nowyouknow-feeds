@@ -18,14 +18,25 @@ function generateFeed(name, format) {
 	var feed = new RSS(settings);
 	for (const item of data.items) {
 		var url =  data.cdn + item[format];
-		feed.item({
+
+		let episode = {
 			title:  item.title,
 			description: `${item.title} (${format.toUpperCase()})`,
 			url: url,
 			date: data.feed.pubDate, // any format that js Date can parse.
 			enclosure: {url: url, type: `audio/${format}`},
 			custom_elements: []
-		});
+		};
+
+		//TODO "itunes:duration": 00:21:25
+
+		if (item.speaker) {
+			episode.custom_elements.push({
+				"itunes:author": item.speaker
+			})
+		};
+
+		feed.item(episode);
 	}
 
 	var xml = feed.xml({indent: true});
