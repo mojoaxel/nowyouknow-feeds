@@ -9,12 +9,7 @@
 		"image_url": "http://nowyouknow.eu/galleries/spys.jpg",
 		"language": "de",
 		"pubDate": "2017-10-22 22:13",
-		"ttl": "1440",
-
-		"custom_elements": [
-			{ "itunes:category": "News & Politics" },
-			{ "itunes:author": "Constanze Kurz, Frank Rieger" }
-		]
+		"ttl": "1440"
 	},
 
 	"items": [{
