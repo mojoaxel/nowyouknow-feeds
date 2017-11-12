@@ -1,0 +1,26 @@
+{
+  "name": "nowyouknow-feeds",
+  "version": "1.0.0",
+  "description": "podcast feeds for nowyouknow.eu",
+  "homepage": "https://mojoaxel.github.io/nowyouknow-feeds/",
+  "main": "make.js",
+  "scripts": {
+    "make": "node make.js",
+    "start": "npm run make && npm run validator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojoaxel/nowyouknow-feeds.git"
+  },
+  "author": "Alexander Wunschik <alex@wunschik.net>",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/mojoaxel/nowyouknow-feeds/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "extend": "^3.0.1",
+    "ora": "^1.3.0",
+    "rss": "^1.2.2"
+  }
+}
