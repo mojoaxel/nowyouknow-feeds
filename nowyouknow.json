@@ -20,7 +20,8 @@
 			{ "itunes:category": { "_attr": { "text": "News & Politics" } } },
 			{ "itunes:author": "Constanze Kurz, Frank Rieger" },
 			{ "itunes:email": "kontakt@datenfresser.info" },
-			{ "itunes:type": "serial" }
+			{ "itunes:type": "serial" },
+			{ "itunes:explicit": "no" }
 		]
 	},
 
